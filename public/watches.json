@@ -1,0 +1,28 @@
+[
+    {
+      "id": "SW001",
+      "name": "Apple Watch Series 8",
+      "price": 399.00
+    },
+    {
+      "id": "SW002",
+      "name": "Samsung Galaxy Watch 5",
+      "price": 279.99
+    },
+    {
+      "id": "SW003",
+      "name": "Garmin Venu 2",
+      "price": 399.99
+    },
+    {
+      "id": "SW004",
+      "name": "Fitbit Sense",
+      "price": 329.95
+    },
+    {
+      "id": "SW005",
+      "name": "Amazfit GTR 3",
+      "price": 199.99
+    }
+  ]
+  
